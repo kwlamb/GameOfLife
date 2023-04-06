@@ -7,7 +7,8 @@
  
  Execution instructions:
 	
-	From the root folder, run "GameOfLife.exe" and follow the instructions.
+	1. Open a Windows command prompt in the root folder.
+	2. Run "GameOfLife.exe" and follow the instructions.
 	
  Build instructions:
 	
